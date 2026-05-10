@@ -1,0 +1,2 @@
+#Definitions 
+A law proposed by French chemist Joseph Proust (1754-1826), is an empirical law about the composition of chemical compounds. One way to state the law is to say that every compound mush have its own individual mass percent composition.
