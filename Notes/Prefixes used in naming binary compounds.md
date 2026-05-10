@@ -1,0 +1,1 @@
+Names of [binary molecular compounds](obsidian://open?vault=Chem&file=Binary%20molecular%20Compounds) that do not contain hydrogen follow a pattern.
