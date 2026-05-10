@@ -36,7 +36,7 @@ Apart of the kinetic molecular theory: Particles do not attract or repel each ot
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Drawing/2026.3.17 - 19.03pm.drawing",
+	"filepath": "Class Notes/Notes/Ink/Drawing/2026.3.17 - 19.03pm.drawing",
 	"width": 500,
 	"aspectRatio": 1
 }
